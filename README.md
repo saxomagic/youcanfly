@@ -17,6 +17,8 @@ Just run the following command in your terminal, sit back, and watch the magic h
 
 ```sh
 curl -sSL https://you-can-fly.nowhere/install | sh
+```
+
 DIY Installation (For the hands-on builders)
 If you're more of a do-it-yourselfer, follow these easy steps to assemble your flying machine:
 
