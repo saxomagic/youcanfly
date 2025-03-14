@@ -23,30 +23,26 @@ DIY Installation (For the hands-on builders)
 If you're more of a do-it-yourselfer, follow these easy steps to assemble your flying machine:
 
 1.  Gather Materials
-    ◦ 4 car tires (for landing gear, obviously)
-    ◦ 2 large umbrellas (for wings, because aerodynamics)
-    ◦ 1 kitchen chair (pilot's seat)
-    ◦ Duct tape (lots of it)
-    ◦ An old laptop (for navigation)
-2.  Construct Your Airframe
-    ◦ Attach the car tires to the bottom of the kitchen chair using duct tape.
-    ◦ Secure the umbrellas to the sides of the chair, open them up, and voila, you've got wings!
-3.
-Install Navigation System
-    ◦ Tape the laptop to the chair's backrest.
-    ◦ Download and install our revolutionary navigation software:
-`pip install you-can-fly-navigation` Or if you're feeling adventurous:
-
+    - 4 car tires (for landing gear, obviously)
+    - 2 large umbrellas (for wings, because aerodynamics)
+    - 1 kitchen chair (pilot's seat)
+    - Duct tape (lots of it)
+    - An old laptop (for navigation)
+2. Construct Your Airframe
+    - Attach the car tires to the bottom of the kitchen chair using duct tape.
+    - Secure the umbrellas to the sides of the chair, open them up, and voila, you've got wings!
+3.  Install Navigation System
+    - Tape the laptop to the chair's backrest.
+    - Download and install our revolutionary navigation software: `pip install you-can-fly-navigation` Or if you're feeling adventurous:
 ```bash
 git clone https://github.com/you-can-fly/nav-system.git
 cd nav-system
 ./install.sh
 ```
-4.  
-Takeoff
-◦ Find a hill or a tall building.
-◦ Get a running start.
-◦ Jump!
+4.  Takeoff
+    - Find a hill or a tall building.
+    - Get a running start.
+    - Jump!
 
 Congratulations! You're now a certified DIY aviator.
 
