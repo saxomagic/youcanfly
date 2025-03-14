@@ -76,3 +76,28 @@ Happy flying, and remember: when in doubt, there's always commercial!
 * Because there is this obsession with "incremental improvement", MVP and showing value fast, dman fast man!
 * Because  some things, well, they can just not be built or made that way!
 
+
+## Prompt to Tulu3 405bn
+* [Ai2 playbgound](https://playground.allenai.org)
+
+```
+
+A systemic problem in today's knowledge economy is when smart, curious and motivated scientists and engineers get beguiled by open source projects that are backed by financial SaaS products.
+The open source projects have flashy and well-written READMEs  and other documentation, and supporting blog articles that makes it look like a piece of cake to use the project and to achieve true value.
+The especially easy-to-follow getting started instructions routinely obfuscate the true complexity involved in choosing the project as part of a overall solution and the true effort required to deliver lasting value.
+The relative ease and speed at which meager results can be achieved with further spurs the professionals on to push forward and ignore many one-way decisions that the particular technology choice might impose.
+The meager results are often enough for the professionals to show so called incremental value to superiors that are easily impressed by flashy demos.
+The overwhelming sense of accomplishment that the professionals experience adds to the obsession with these quick to get going type of projects.
+The plafora of happy and positive testimonials by happy users further fuels the cargo cult like obsessions.
+
+Given this context, I would like to parody a fake such project. The project is called YouCanFly and we want to produce a README and some additional documentation.
+The overall tone of the documentation must be highly engaging and fun. It should appeal to an age group representing young professionals with 5 or so years of industry experience.
+The overall idea of the parody project is that the project claims, and shows you how "you, yes even you also" can easily build a flying device and fly useful distances.
+The README should go into easy-to-follow instructions that only requires common house hold and automotive materials.
+The quick getting started section should offer bogus pip install and other instructions, for Windows, Linux and Mac, in the event that you do not have some critical part at hand.
+The quick getting started section should have a fake one-shot install script, and then a longer do-it-yourself section with the bogus CLI commands, reference to other fake projects for providing critical components required to build a "flying machine" also known as an airplane.
+
+The docs should include testimonials by happy users who built and operated their flying machines, all with some catastrophy as a result, but all praising the project and putting the blame of failure on their own misunderstanding or attributing it to being part of future improvements (that future improvements will overcome this and that we must remember we are showing incremental progress).
+The README should have near the end, a section on production deployments, which reveals the truth in a sardonic  manner, stating that for real-world scenarios, this project is great but not sufficient, and the user should buy an airline ticket and choose a commercial carrier for all their flying needs.
+The production deployment section should come clean that flying is a science and highly specialised activity, and that for safety concerns and to avoid what most of the testimonials speak of (catastrophy) it is advisable to leave it to the experts and buy rather than build.
+```
