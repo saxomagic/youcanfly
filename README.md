@@ -78,7 +78,7 @@ Happy flying, and remember: when in doubt, there's always commercial!
 
 
 ## Prompt to Tulu3 405bn
-* [Ai2 playbgound](https://playground.allenai.org)
+* [Ai2 playground](https://playground.allenai.org)
 
 ```
 
